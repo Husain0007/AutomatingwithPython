@@ -18,4 +18,7 @@ PDFMiner.six -->    20201018
 
 Pandas -->    1.2.4
 
+Gensim -->    4.1.2
+
+
 
