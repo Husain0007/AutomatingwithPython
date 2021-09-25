@@ -12,4 +12,10 @@ Camelot-py -->   0.10.1
 
 Seaborn -->   0.10.0
 
+SpaCy -->    3.1.3
+
+PDFMiner.six -->    20201018
+
+Pandas -->    1.2.4
+
 
